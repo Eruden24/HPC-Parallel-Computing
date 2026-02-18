@@ -33,9 +33,3 @@ Focuses on the message-passing model for distributed-memory environments (multi-
 
 ## 🚀 How to Run
 Each project folder contains a `Makefile`. To compile and run:
-
-```bash
-# Example for MPI project
-cd 03-MPI
-make
-mpirun -np <number_of_processes> ./sparse_mul_mpi <args>
