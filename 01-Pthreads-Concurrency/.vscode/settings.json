@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "polynomial.h": "c",
+        "time.h": "c",
+        "pthread.h": "c",
+        "array": "c",
+        "my_barrier.h": "c",
+        "cond_barrier.h": "c",
+        "sense_barrier.h": "c"
+    }
+}
